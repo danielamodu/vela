@@ -9,7 +9,7 @@ import { Footer } from "@/components/Footer";
 export const metadata: Metadata = {
   title: "Vela — Verifiable AI Dataset Registry",
   description:
-    "Publish, discover, and subscribe to AI training datasets anchored on the Sui blockchain with Walrus decentralized storage and Claude AI-generated dataset cards.",
+    "Publish, discover, and subscribe to AI training datasets anchored on the Sui blockchain with Walrus decentralized storage and AI-generated dataset cards.",
   keywords: ["AI", "datasets", "Sui", "blockchain", "Walrus", "Web3", "machine learning"],
   openGraph: {
     title: "Vela — Verifiable AI Dataset Registry",

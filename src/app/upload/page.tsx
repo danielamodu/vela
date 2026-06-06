@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Upload Dataset — Vela",
   description:
-    "Publish your AI training dataset to Vela. Files are stored on Walrus, analyzed by Claude AI, and registered on the Sui blockchain.",
+    "Publish your AI training dataset to Vela. Files are stored on Walrus, analyzed by AI, and registered on the Sui blockchain.",
 };
 
 export default function UploadPage() {

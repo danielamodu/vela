@@ -19,7 +19,7 @@ function HeroSection() {
       <div style={styles.heroContent}>
         <div style={styles.heroBadge}>
           <span style={{ color: "var(--color-ink-black)", fontSize: "10px" }}>⬡</span>
-          Sui Testnet · Walrus Storage · Claude AI
+          Sui Testnet · Walrus Storage · AI
         </div>
         <h1 className="font-display" style={styles.heroTitle}>
           The <span style={{ background: "var(--color-sui-blue)", padding: "0 8px", color: "var(--color-pure-white)" }}>Verifiable</span><br />
