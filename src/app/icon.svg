@@ -1,0 +1,14 @@
+<svg
+  width="24"
+  height="24"
+  viewBox="0 0 28 28"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <circle cx="14" cy="14" r="13" stroke="#000000" strokeWidth="1.5" opacity="0.1" />
+  <path
+    d="M14 3L15.5 12.5L25 14L15.5 15.5L14 25L12.5 15.5L3 14L12.5 12.5L14 3Z"
+    fill="#000000"
+  />
+  <circle cx="14" cy="14" r="2" fill="#ffffff" />
+</svg>
